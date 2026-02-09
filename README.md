@@ -50,7 +50,7 @@ Complete dataset records
 
 Output :
 
-![Task 1 Output](output.png)
+![Task 1 Output](https://github.com/wince0727/Big_Data_Analysis/blob/main/Output.png)
 
 
 Conclusion :
