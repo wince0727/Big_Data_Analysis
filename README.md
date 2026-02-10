@@ -1,10 +1,16 @@
-Task 1: Big Data Analysis Using Python
+# Big Data Analysis Using Python
+COMPANY: CODTECH IT SOLUTIONS
+NAME: S.WINCE
+INTERN ID: CTIS5393
+DOMAIN: DATA ANALYTICS
+DURATION: 4 WEEEKS
+MENTOR: NEELA SANTOSH
 
-Overview :
+# Overview :
 
 This project focuses on performing basic big data analysis using Python. The objective is to load a CSV dataset, explore its structure, and display records to understand the data. This task builds a strong foundation for data analytics and data handling.
 
-Objectives :
+# Objectives :
 
 Load a CSV file using Python
 
@@ -16,7 +22,7 @@ Identify missing values
 
 Verify successful data loading
 
-Tools & Technologies :
+# Tools & Technologies :
 
 Python
 
@@ -24,7 +30,7 @@ Pandas
 
 Visual Studio Code
 
-Dataset Description:
+# Dataset Description:
 
 The dataset (data.csv) contains structured tabular data including names, addresses, cities, states, and postal codes. It simulates real-world data commonly used in analytics projects.
 
@@ -40,7 +46,7 @@ Displayed the dataset in the console
 
 Observed missing values (NaN) in the data
 
-Output :
+# Output :
 
 The script successfully prints:
 
@@ -48,11 +54,9 @@ Total number of rows in the dataset
 
 Complete dataset records
 
-Output :
-
 ![Task 1 Output](https://github.com/wince0727/Big_Data_Analysis/blob/main/Output.png)
 
 
-Conclusion :
+# Conclusion :
 
 Task 1 was successfully completed by loading and analyzing structured data using Python. This task demonstrates essential data analysis skills and prepares the groundwork for advanced analytics tasks.
